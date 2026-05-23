@@ -54,10 +54,10 @@ Git • GitHub • Railway • Vercel • Supabase
 
 ---
 
-# 📫 Connect With Me
-LinkedIn: (https://www.linkedin.com/in/ansh-sharma-a206b4378/)
+## 📫 Connect With Me
 
-GitHub: https://github.com/ansharmma## Hi there 👋
+- [LinkedIn](https://www.linkedin.com/in/ansh-sharma-a206b4378/)
+- [GitHub](https://github.com/ansharmma)
 
 <!--
 **ansharmma/ansharmma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
