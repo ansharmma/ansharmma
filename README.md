@@ -26,10 +26,10 @@ AI-powered stock forecasting and educational platform built using:
 - System integration
 
 🔗 Live Demo:
-(Add your deployed link)
+(https://stock-sensei-tau.vercel.app/)
 
 🔗 GitHub Repository:
-(Add repo link)
+(https://github.com/Mesh-06/stock-sensei)
 
 ---
 
@@ -55,7 +55,7 @@ Git • GitHub • Railway • Vercel • Supabase
 ---
 
 # 📫 Connect With Me
-LinkedIn: (add link)
+LinkedIn: (https://www.linkedin.com/in/ansh-sharma-a206b4378/)
 
 GitHub: https://github.com/ansharmma## Hi there 👋
 
