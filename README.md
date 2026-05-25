@@ -56,7 +56,7 @@ Git • GitHub • Railway • Vercel • Supabase
 
 ## 📫 Connect With Me
 
-- [LinkedIn](www.linkedin.com/in/ansh-sharma-eqvq)
+- [LinkedIn](https://www.linkedin.com/in/ansh-sharma-eqvq/)
 - [GitHub](https://github.com/ansharmma)
 
 <!--
