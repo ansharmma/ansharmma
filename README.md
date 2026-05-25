@@ -18,7 +18,7 @@ AI-powered stock forecasting and educational platform built using:
 - Supabase
 - TypeScript
 
-### Contributions
+### Key Responsibilities
 - Backend integration
 - Deployment workflows
 - Frontend-backend connectivity
